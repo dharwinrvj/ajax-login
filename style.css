@@ -1,0 +1,6 @@
+body {
+    background-image: linear-gradient(to left, rgba(186, 250, 178, 0.945), green);
+}
+#ajax{
+    display: none;
+}
